@@ -1,0 +1,9 @@
+[INFO] 2024-02-26 09:48:30,955 runner.RunTest logInfo - Test case 1 : radiologySearch
+[INFO] 2024-02-26 09:48:45,725 runner.RunTest logInfo - opened home page
+[INFO] 2024-02-26 09:48:47,710 runner.RunTest logInfo - clicked on Request Appointment
+[INFO] 2024-02-26 09:48:54,530 runner.RunTest logInfo - clicked on referring physicians
+[INFO] 2024-02-26 09:49:04,224 runner.RunTest logInfo - clicked on medical departments
+[INFO] 2024-02-26 09:49:09,457 runner.RunTest logInfo - clicked on radiology
+[INFO] 2024-02-26 09:49:09,665 runner.RunTest logInfo - fetched header text : Advanced imaging for complex conditions
+[INFO] 2024-02-26 09:49:09,671 runner.RunTest logInfo - verified header text | Actual text : Advanced imaging for complex conditions | Expected text : Advanced imaging for complex conditions
+[INFO] 2024-02-26 09:49:18,322 runner.RunTest logInfo - sent email
