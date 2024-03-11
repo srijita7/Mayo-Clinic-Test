@@ -1,0 +1,6 @@
+[INFO] 2024-02-28 01:15:49,863 runner.RunTest logInfo - Test case 1 - Request appointment process for new patients
+[INFO] 2024-02-28 01:15:51,571 runner.RunTest logInfo - not opened home page
+[ERROR] 2024-02-28 01:15:51,786 runner.RunTest logError - not clicked on Request Appointment
+[INFO] 2024-02-28 01:15:51,808 runner.RunTest logInfo - Test case 1 - Search and View Symptoms Functionality
+[INFO] 2024-02-28 01:15:52,858 runner.RunTest logInfo - not opened home page
+[INFO] 2024-02-28 01:15:52,869 runner.RunTest logInfo - not clicked on Health Library
